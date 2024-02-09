@@ -1,0 +1,14 @@
+C:\Users\fatimaeg\Desktop\LabTasks\LabTasks\bin\Debug\net6.0\LabTasks.exe
+C:\Users\fatimaeg\Desktop\LabTasks\LabTasks\bin\Debug\net6.0\LabTasks.deps.json
+C:\Users\fatimaeg\Desktop\LabTasks\LabTasks\bin\Debug\net6.0\LabTasks.runtimeconfig.json
+C:\Users\fatimaeg\Desktop\LabTasks\LabTasks\bin\Debug\net6.0\LabTasks.dll
+C:\Users\fatimaeg\Desktop\LabTasks\LabTasks\bin\Debug\net6.0\LabTasks.pdb
+C:\Users\fatimaeg\Desktop\LabTasks\LabTasks\obj\Debug\net6.0\LabTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatimaeg\Desktop\LabTasks\LabTasks\obj\Debug\net6.0\LabTasks.AssemblyInfoInputs.cache
+C:\Users\fatimaeg\Desktop\LabTasks\LabTasks\obj\Debug\net6.0\LabTasks.AssemblyInfo.cs
+C:\Users\fatimaeg\Desktop\LabTasks\LabTasks\obj\Debug\net6.0\LabTasks.csproj.CoreCompileInputs.cache
+C:\Users\fatimaeg\Desktop\LabTasks\LabTasks\obj\Debug\net6.0\LabTasks.dll
+C:\Users\fatimaeg\Desktop\LabTasks\LabTasks\obj\Debug\net6.0\refint\LabTasks.dll
+C:\Users\fatimaeg\Desktop\LabTasks\LabTasks\obj\Debug\net6.0\LabTasks.pdb
+C:\Users\fatimaeg\Desktop\LabTasks\LabTasks\obj\Debug\net6.0\LabTasks.genruntimeconfig.cache
+C:\Users\fatimaeg\Desktop\LabTasks\LabTasks\obj\Debug\net6.0\ref\LabTasks.dll
